@@ -1,0 +1,18 @@
+html{
+    height: 100%;
+}
+body{
+    margin: 0;
+    padding: 0;
+    background: linear-gradient(#d5d1d8,#5a5a5c);
+}
+.contenedor h2{
+    margin: 0 0 30px;
+    padding: 0;
+    font-size: 30px;
+    color: #a6b6ff;
+    text-align: center;
+}
+.contenedor .elemento label{
+    color: #ffff;
+}
